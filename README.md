@@ -10,7 +10,7 @@
 
 ## 💻 Projeto
 
-ignite-template-conceitos-do-nodejs
+Uma API de todos baseada no ignite-template-conceitos-do-nodejs
 
 ## 📝 Licença
 
